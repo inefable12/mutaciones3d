@@ -1,0 +1,3 @@
+Ingresa al ambiente donde puedas correr pymol desde la terminal de linux (en mi caso "streamlit_env" de conda) con el siguiente comando:
+
+pymol -cq generate_mutant_structures.py
